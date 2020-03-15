@@ -1,6 +1,0 @@
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\bin\Debug\ArraySorts.exe.config
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\bin\Debug\ArraySorts.exe
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\bin\Debug\ArraySorts.pdb
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\obj\Debug\ArraySorts.csprojAssemblyReference.cache
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\obj\Debug\ArraySorts.exe
-C:\Users\vlado\source\repos\NET.S.2020.Pilipchuk.15\ArraySorts\obj\Debug\ArraySorts.pdb
