@@ -1,0 +1,6 @@
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\bin\Debug\Euclid.exe.config
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\bin\Debug\Euclid.exe
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\bin\Debug\Euclid.pdb
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\obj\Debug\Euclid.csprojAssemblyReference.cache
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\obj\Debug\Euclid.exe
+C:\Users\vlado\source\repos\NET.S.2020.23\Euclid\obj\Debug\Euclid.pdb
