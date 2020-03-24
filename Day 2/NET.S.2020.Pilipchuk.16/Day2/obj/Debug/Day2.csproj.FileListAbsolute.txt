@@ -4,3 +4,9 @@ C:\Users\vlado\source\repos\Day 2\NET.S.2020.Pilipchuk.16\Day2\bin\Debug\Day2.pd
 C:\Users\vlado\source\repos\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
 C:\Users\vlado\source\repos\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.exe
 C:\Users\vlado\source\repos\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.pdb
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\bin\Debug\Day2.exe.config
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\bin\Debug\Day2.exe
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\bin\Debug\Day2.pdb
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.csprojAssemblyReference.cache
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.exe
+C:\Users\vlado\OneDrive\Documents\GitHub\EPAMTasks\Day 2\NET.S.2020.Pilipchuk.16\Day2\obj\Debug\Day2.pdb

@@ -12,17 +12,13 @@ namespace Day2
         {
             if (i > j)
             {
-                Console.WriteLine("i must be less than j");
+                Console.WriteLine("i must be less or equal than j");
                 return 0;
             }
+            int maskj1 = 0x7FFFFFFF & ((1 << (j - i + 1)) - 1); //zeroing all high bits after j
 
-            int maskj = 0x7FFFFFFF & ((1 << (j + 1)) - 1); //зануляем все биты слева от диапазона j-i
-            int maski = 0x7FFFFFFF ^ ((1 << i) - 1); //зануляем все биты справа от диапазона j-i
-
-            Console.WriteLine($"MY RESULT: {num1 | (num2 & maskj & maski)}");
-
-
-            return num1 | (num2 & maskj & maski);
+            num2 = (num2 & maskj1) << i; //moving bits to position j...i of the first number
+            return num1 | num2;
         }
     }
 }

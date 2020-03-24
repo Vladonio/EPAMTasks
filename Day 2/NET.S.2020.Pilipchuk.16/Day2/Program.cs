@@ -16,7 +16,7 @@ namespace Day2
             InsertNumberAlgorithm insertNumber = new InsertNumberAlgorithm();
             Console.WriteLine(insertNumber.InsertNumber(15, 15, 0, 0));
             Console.WriteLine(insertNumber.InsertNumber(8, 15, 0, 0));
-            Console.WriteLine(insertNumber.InsertNumber(8, 31, 3, 8));
+            Console.WriteLine(insertNumber.InsertNumber(8, 15, 3, 8));
 
             //FindNextBiggerNumber
             Console.WriteLine("%FindNextBiggerNumber%");
